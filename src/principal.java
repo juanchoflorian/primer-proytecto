@@ -7,6 +7,7 @@ public class principal{
 		   // nuevo comentario
 			// probamos el numero - m del commit y aca lo modificamos
 			//cambios de la nueva rama
+//cambios de la nueva rama 2
 
 		int[] myArray = { 1, 2, 2, 4, 5, 6, 7, 8, 8, 8 };
 		int contador[] = new int[10];
