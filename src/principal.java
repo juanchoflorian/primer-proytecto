@@ -8,7 +8,7 @@ public class principal{
 			// probamos el numero - m del commit y aca lo modificamosm, este es una agregacion nueva agregacion
 
 
-			//prueba 10
+			//prueba 20
 			
 
 		int[] myArray = { 1, 2, 2, 4, 5, 6, 7, 8, 8, 8 };
