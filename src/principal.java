@@ -5,7 +5,8 @@ public class principal{
 	
 	public static void main (String args[]) {
 		   // nuevo comentario
-			// probamos el numero - m del commit y aca lo modificamos
+			// probamos el numero - m del commit y aca lo modificamosm, este es una agregacion
+			
 
 		int[] myArray = { 1, 2, 2, 4, 5, 6, 7, 8, 8, 8 };
 		int contador[] = new int[10];
